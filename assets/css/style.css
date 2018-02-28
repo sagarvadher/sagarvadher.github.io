@@ -1,19 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
-/*NAVIS Template*/
-/* == CONTENT == */
-/*--- 01. GENERAL SETTINGS ---*/
-/*--- 02. PRELOADER ---*/
-/*--- 03. NAVIGATION -----*/
-/*--- 04. COPYRIGHT ---*/
-/*--- 05. HOME HEADER ---*/
-/*--- 06. ABOUT SECTION ---*/
-/*--- 07. PORTFOLIO SECTION ---*/
-/*--- 09. RESUME SECTION ---*/
-/*--- 10. CONTACT SECTION ---*/
-/*--- 11. MEDIA QUERIES FOR RESPONSIVE DESIGN ---*/
-/*--------------------------------*/
-/*--- 01. GENERAL SETTINGS ---*/
+
 ::-webkit-scrollbar {
   width: 6px;
   background-color: #fff;
