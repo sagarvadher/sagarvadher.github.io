@@ -1,4 +1,4 @@
-// Ajax Form for Vedea tamplate
+
 
 "use strict";
 
@@ -16,7 +16,7 @@ $("#contactForm").validator().on("submit", function (event) {
 
 
 function submitForm(){
-    // Initiate Variables With Form Content
+    
     var name = $("#name").val();
     var email = $("#email").val();
     var message = $("#message").val();
